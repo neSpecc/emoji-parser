@@ -1,4 +1,4 @@
-# Multipaltform Emoji client 😎
+# Multiplatform Emoji client 😎
 
 This Module allows you to use Emoji in your Web application interface.
 
