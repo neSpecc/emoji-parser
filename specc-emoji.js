@@ -55,9 +55,9 @@ var Emoji = (function () {
         }
 
         /**
-        * Allows force-parsing — loads styles
+        * Loads required stylesheets
         */
-        if ( forceParsing && !this.stylesLoaded ) {
+        if ( !this.stylesLoaded ) {
             prepare_();
         }
 
