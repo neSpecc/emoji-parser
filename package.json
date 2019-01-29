@@ -1,0 +1,22 @@
+{
+  "name": "emoji-parser",
+  "version": "1.0.0",
+  "description": "This Module allows you to use Emoji in your Web application interface",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neSpecc/emoji-parser.git"
+  },
+  "keywords": [
+    "emoji"
+  ],
+  "author": "Peter Savchenko https://github.com/neSpecc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neSpecc/emoji-parser/issues"
+  },
+  "homepage": "https://github.com/neSpecc/emoji-parser#readme"
+}
